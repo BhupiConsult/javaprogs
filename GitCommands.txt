@@ -1,6 +1,39 @@
 
+Resource
+=========
+https://www.atlassian.com/git/tutorials/what-is-version-control
+
+Working Directory
+=================
 Directory: /c/Users/BhupinderSinghPawa/Documents/javaprogs
 
+Install Git
+===========
+
+Common Commands
+==============
 git config --global user.name "Bhupinder Singh"
 
 git config --global user.email "bhupindersinghpawa@gmail.com"
+
+git config --global core.editor vim
+
+git config --global alias.st status
+
+git config --global alias.co checkout
+
+git config --global alias.br branch
+
+git config --global alias.up rebase
+
+git config --global alias.ci commit
+
+Creating Central Bare Repositories
+==================================
+ssh <user>@<host> 
+cd path/above/repo 
+git init --bare my-project.git
+Clone from this centralised repository to other repositories
+Then Push and Pull can be only done
+
+
