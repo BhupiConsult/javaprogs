@@ -36,4 +36,6 @@ git init --bare my-project.git
 Clone from this centralised repository to other repositories
 Then Push and Pull can be only done
 
+Edited, Amended, Add and Commit w/ Amend
+
 
