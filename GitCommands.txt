@@ -1,0 +1,6 @@
+
+Directory: /c/Users/BhupinderSinghPawa/Documents/javaprogs
+
+git config --global user.name "Bhupinder Singh"
+
+git config --global user.email "bhupindersinghpawa@gmail.com"
