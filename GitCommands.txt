@@ -28,12 +28,9 @@ git config --global alias.up rebase
 
 git config --global alias.ci commit
 
-Creating Central Bare Repositories
-==================================
-ssh <user>@<host> 
-cd path/above/repo 
-git init --bare my-project.git
-Clone from this centralised repository to other repositories
-Then Push and Pull can be only done
-
-Knock Off
+Working In Remote Repoisitories
+===============================
+GitHub - create a new branch
+do changes to a file
+Create a Pull Request 
+Handle the Pull Request
