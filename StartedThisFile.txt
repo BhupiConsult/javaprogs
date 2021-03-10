@@ -1,2 +1,2 @@
-Put some contents. 
-// this one on master branch intent to cause conflict on merging.
+Put some contents. -> Common Retained
+Main Branch and Experiment Branch -> Changes merged in this line.
